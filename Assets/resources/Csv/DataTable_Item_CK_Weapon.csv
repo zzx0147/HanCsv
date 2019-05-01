@@ -1,0 +1,5 @@
+﻿출력값,,X,이름,~Lv 이상 장착가능,공격력,힘,민첩,공격속도,크리티컬 확률,크리티컬 데미지
+,Image_File,ID,Name(K),Require_Level,S_Dmg,S_Str,S_Dex,S_Agi,Cri,Cri Dmg
+,Wp_Eclipse,1,이클립스,75,4210,61,50,4,34,10
+,Wp_Spinear,2,스피니어,75,3670,53,61,5,28,8
+,Wp_Acronica,3,아크로니카,75,3050,43,78,7,30,5

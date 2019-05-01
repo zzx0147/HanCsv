@@ -1,0 +1,7 @@
+﻿출력값,,X,이름,~Lv 이상 장착가능,체력,방어력,힘,민첩,강인함
+,Image_File,ID,Name(K),Require_Level,S_HP,S_Def,S_Str,S_Dex,S_will
+,Cloak_Adventurer,1,모험가의 망토,20,1200,800,20,40,2
+,Cloak_Algaz,2,알가즈의 망토,75,4000,2500,58,70,3
+,Cloak_Vision,3,비전 망토,60,3000,2000,30,50,8
+,Top_Leather,4,레더 상의,5,500,210,15,20,2
+,Pants_Leather,5,레더 하의,5,500,210,15,20,2
